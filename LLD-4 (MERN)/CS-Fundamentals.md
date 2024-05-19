@@ -1,8 +1,7 @@
 ### MERN Fundamentals
 
-Sure! Here’s a concise overview of protocols in computer science, covering what they are, their importance, and the main types:
 
-### **Protocols in Computer Science**
+## **Protocols in Computer Science**
 
 **1. What is a Protocol?**
 - A protocol is a set of rules and conventions for communication between network devices.
